@@ -1,0 +1,9 @@
+gdown
+ipython-sql
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+seaborn
+XlsxWriter
